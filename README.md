@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for the data science toolbox course
+Repository for the data scientist's toolbox course.
